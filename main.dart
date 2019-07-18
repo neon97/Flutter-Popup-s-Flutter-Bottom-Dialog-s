@@ -115,7 +115,7 @@ class _AppState extends State<App> {
             onPressed: ()
             {
               Navigator.of(context).pop(true);    //this will make the sccren to display
-            },                                     //popup define what has to be poped wwhen it is bee clicked..
+            },                                     //popup define what has to be poped wwhen it is been clicked..
           )
         ],
       ),
