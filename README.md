@@ -6,7 +6,7 @@ For this simple creation you need no packages ..its built-in...just use and enjo
 Check the main.dart the whle code is implemented there itself...
 
 <h2>Some snapies..</h2>
-<br>
+
 <h3>Main Page</h3>
 <img src="https://github.com/neon97/Flutter-Popup-s-Flutter-Bottom-Dialog-s/blob/master/Screenshots/Screenshot_1563432189.png?raw=true"  width="200" >
 </img>
